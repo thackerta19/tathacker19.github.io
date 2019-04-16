@@ -16,5 +16,5 @@ Below are a few links to help you navigate through all of my pages:
 
 
 ```
-<a href="https://thackerta19.github.io/tathacker19.github.io/about/"> About Me </a>
+<a href="https://thackerta19.github.io/tathacker19.github.io/about/"> About Me</a>
 ```
