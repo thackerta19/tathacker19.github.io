@@ -15,7 +15,7 @@ order: 1
 
 ## Thank You for visitng my site!
 
-Below are a few links to help you navigate through all of my pages:
+I have created this website as a test to monitor usability heuristics and to see what people like about certain layouts and what they may not like.  Please take a look around and explore!  Below are a few links to help you navigate through all of my pages or you can use the tabs at the top to navigate between the differetnt pages as well:
 
 
 ```
