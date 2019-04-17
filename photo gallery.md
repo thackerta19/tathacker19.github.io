@@ -9,5 +9,11 @@ order: 2
 
 Check out some of the pictures I have taken with my new camera!  I have listed them all below for your viewing pleasure.
 
-<img src="https://c1.staticflickr.com/5/4914/46923523161_5e729d8313_h.jpg" />
+<p align="center"><img src="https://i.pinimg.com/originals/bc/17/e3/bc17e333510e9457f18a0f383b1330e3.jpg" alt="header image" width="500px"></p>
+
+<p align="center"><img src="https://i.pinimg.com/originals/bc/17/e3/bc17e333510e9457f18a0f383b1330e3.jpg" alt="header image" width="500px"></p>
+
+<p align="center"><img src="https://i.pinimg.com/originals/bc/17/e3/bc17e333510e9457f18a0f383b1330e3.jpg" alt="header image" width="500px"></p>
+
+<p align="center"><img src="https://i.pinimg.com/originals/bc/17/e3/bc17e333510e9457f18a0f383b1330e3.jpg" alt="header image" width="500px"></p>
 
