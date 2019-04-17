@@ -19,5 +19,6 @@ I have created this website as a test to monitor usability heuristics and to see
 
 
 ```
-<a href="https://thackerta19.github.io/tathacker19.github.io/about/"> About Me</a>
+[our default boilerplate, Bowser](https://github.com/infinitered/ignite-bowser)
+
 ```
