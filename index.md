@@ -19,7 +19,7 @@ I have created this website as a test to monitor usability heuristics and to see
 
 
 [Photo Gallery](https://thackerta19.github.io/tathacker19.github.io/photo%20gallery.html) <br>
-[About Me](https://thackerta19.github.io/tathacker19.github.io/about/)
-[About VMI]()
+[About Me](https://thackerta19.github.io/tathacker19.github.io/about/) <br>
+[About VMI]() <br>
 [My Resume]()
 
