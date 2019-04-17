@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 description: Everything Tyler
 permalink: /about/
 order: 3
