@@ -20,6 +20,6 @@ I have created this website as a test to monitor usability heuristics and to see
 
 [Photo Gallery](https://thackerta19.github.io/tathacker19.github.io/photo%20gallery.html) <br>
 [About Me](https://thackerta19.github.io/tathacker19.github.io/about/) <br>
-[About VMI]() <br>
+[About VMI](https://thackerta19.github.io/tathacker19.github.io/about_vmi/) <br>
 [My Resume](https://thackerta19.github.io/tathacker19.github.io/post/)
 
