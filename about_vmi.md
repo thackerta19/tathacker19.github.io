@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About VMI
-description: Everything Tyler
+description: Where Im From
 permalink: /about_vmi/
 order: 4
 ---
